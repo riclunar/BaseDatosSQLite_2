@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">BaseDatosSQLite</string>
+    <string name="tbtnRegistra">Registrar</string>
+    <string name="mPrincipal">Menu Principal</string>
+    <string name="toRegistra">Opción de Registro</string>
+    <string name="iNombre">Ingresa Nombre</string>
+    <string name="iEdad">Ingresa Edad</string>
+    <string name="iSexo">Ingresa Sexo</string>
+    <string name="rbtnRegistar">Registra</string>
+</resources>
